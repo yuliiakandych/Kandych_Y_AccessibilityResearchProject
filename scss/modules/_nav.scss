@@ -1,0 +1,52 @@
+.navlink{
+    color: rgb(91, 91, 211);
+    text-decoration: none;
+    padding: 15px;
+    
+    font-size: 2rem;
+    &:hover{
+        color:$text;
+        text-emphasis: none;
+        text-decoration: none;
+    }
+}
+
+.link{
+    font-size: 1.3rem;
+    padding: 10px;
+    a{
+        color:red;
+        &:hover{
+            text-decoration: none;
+            color:rgb(148, 29, 28);
+        }
+    }
+}
+
+.lyrics-container {
+    width: auto;
+    margin: 10px auto;
+    //border: 1px solid #ccc;
+    min-height: 38px;
+  }
+
+  .lyrics {
+    height: 0;
+    width: 100%;
+    overflow: auto;
+    padding: 0 10px;
+  }
+
+  .lyrics-container button {
+    width: auto;
+    margin: 0 auto;
+   // height: 36px;
+    background-color: rgb(68, 68, 249);
+    border:transparent;
+    padding: 10px;
+    border-radius: 50px;
+    color: $text;
+    text-decoration: none;
+    outline: none;
+    text-align: center;
+  }
