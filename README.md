@@ -1,5 +1,6 @@
-# Media for Everyone
+# Media for Everyone  
 
+Just enjoy, be happy, and be safe!
 
 ## Build with
 * **HTML5**
