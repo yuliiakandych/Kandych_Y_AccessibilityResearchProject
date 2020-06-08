@@ -19,6 +19,6 @@ Just enjoy, be happy, and be safe!
 
 ## Authors
 * **Julia Kandych**
-* **With help of Vira Romanko <3**
+
 
 
